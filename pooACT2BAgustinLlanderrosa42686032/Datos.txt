@@ -1,0 +1,7 @@
+Nombre: Agustin
+Apellido: Llanderrosa
+DNI: 42686032
+Materia: Programacion orientada a objetos (POO)
+Comision: 2B
+Turno: Tarde
+Profesor: Abelardo Jose Lugo
